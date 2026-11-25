@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Trendyol",
+    "category": "Pazaryeri & Çoklu Kategori",
+    "sitemap": "https://www.trendyol.com/sitemap.xml",
+    "status": "ERROR",
+    "code": 404
+  },
+  {
+    "name": "Hepsiburada",
+    "category": "Pazaryeri & Çoklu Kategori",
+    "sitemap": "https://www.hepsiburada.com/sitemap.xml",
+    "status": "ERROR",
+    "code": 403
+  },
+  {
+    "name": "N11",
+    "category": "Pazaryeri & Çoklu Kategori",
+    "sitemap": "https://www.n11.com/sitemap.xml",
+    "status": "ERROR",
+    "code": 403
+  },
+  {
+    "name": "Pazarama",
+    "category": "Pazaryeri & Çoklu Kategori",
+    "sitemap": "https://www.pazarama.com/sitemap.xml",
+    "status": "NOT_XML",
+    "code": 200
+  },
+  {
+    "name": "Çiçeksepeti (Extra)",
+    "category": "Pazaryeri & Hediye",
+    "sitemap": "https://www.ciceksepeti.com/sitemap.xml",
+    "status": "ERROR",
+    "code": 403
+  },
+  {
+    "name": "Decathlon Türkiye",
+    "category": "Spor & Outdoor & Bisiklet",
+    "sitemap": "https://www.decathlon.com.tr/sitemap.xml",
+    "status": "ERROR",
+    "code": 403
+  },
+  {
+    "name": "IKEA Türkiye",
+    "category": "Mobilya & Ev Gereçleri",
+    "sitemap": "https://www.ikea.com.tr/sitemap.xml",
+    "status": "ERROR",
+    "code": 404
+  },
+  {
+    "name": "Vivense",
+    "category": "Mobilya & Dekorasyon",
+    "sitemap": "https://www.vivense.com/sitemap.xml",
+    "status": "ERROR",
+    "code": 404
+  },
+  {
+    "name": "Doğtaş Mobilya",
+    "category": "Mobilya & Koltuk",
+    "sitemap": "https://www.dogtas.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 24
+  },
+  {
+    "name": "Enza Home",
+    "category": "Mobilya & Yatak",
+    "sitemap": "https://www.enzahome.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "count": 4
+  },
+  {
+    "name": "Lova Yatak",
+    "category": "Yatak & Baza",
+    "sitemap": "https://www.lovayatak.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 22
+  },
+  {
+    "name": "Evkur",
+    "category": "Beyaz Eşya & Elektronik",
+    "sitemap": "https://www.evkur.com.tr/sitemap.xml",
+    "status": "ERROR",
+    "code": 404
+  },
+  {
+    "name": "Kiğılı",
+    "category": "Erkek Giyim & Takım Elbise",
+    "sitemap": "https://www.kigili.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 51
+  },
+  {
+    "name": "Altınyıldız Classics",
+    "category": "Erkek Moda & Takım Elbise",
+    "sitemap": "https://www.altinyildizclassics.com/sitemap.xml",
+    "status": "ERROR",
+    "error": "The operation was aborted due to timeout"
+  },
+  {
+    "name": "Damat Tween",
+    "category": "Erkek Giyim & Aksesuar",
+    "sitemap": "https://www.damattween.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 5
+  },
+  {
+    "name": "Ramsey",
+    "category": "Erkek Giyim & Palto",
+    "sitemap": "https://www.ramsey.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "count": 10
+  },
+  {
+    "name": "Derimod",
+    "category": "Deri Ceket & Ayakkabı",
+    "sitemap": "https://derimod.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "count": 105
+  },
+  {
+    "name": "Greyder",
+    "category": "Outdoor Ayakkabı & Bot",
+    "sitemap": "https://www.greyder.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 13
+  },
+  {
+    "name": "Kemal Tanca",
+    "category": "Ayakkabı & Çanta",
+    "sitemap": "https://www.kemaltanca.com.tr/sitemap.xml",
+    "status": "ERROR",
+    "code": 404
+  },
+  {
+    "name": "Penti",
+    "category": "İç Giyim, Çorap & Mayo",
+    "sitemap": "https://www.penti.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 10
+  },
+  {
+    "name": "Suwen",
+    "category": "İç Giyim & Ev Giyimi",
+    "sitemap": "https://www.suwen.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "count": 5
+  },
+  {
+    "name": "Modanisa",
+    "category": "Kadın Moda & Tesettür",
+    "sitemap": "https://www.modanisa.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 85
+  },
+  {
+    "name": "Sefamerve",
+    "category": "Giyim & Şal & Eşarp",
+    "sitemap": "https://www.sefamerve.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 43
+  },
+  {
+    "name": "E-Dermokozmetik",
+    "category": "Kozmetik & Cilt Bakımı",
+    "sitemap": "https://www.dermokozmetik.com/sitemap.xml",
+    "status": "ERROR",
+    "error": "fetch failed"
+  },
+  {
+    "name": "MedikalGross",
+    "category": "Sağlık & Medikal Malzemeler",
+    "sitemap": "https://www.medikalgross.com/sitemap.xml",
+    "status": "ERROR",
+    "error": "fetch failed"
+  }
+]

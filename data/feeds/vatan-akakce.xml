@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Akakçe Standart Ürün Besleme XML Formatı (Official Merchant Specification) -->
+<!-- Mağaza: Vatan Bilgisayar | Altyapı: IdeaSoft / Ticimax / T-Soft Export Engine -->
+<urunler>
+  <urun>
+    <kod>VAT-IPH16PM</kod>
+    <barkod>195949038291</barkod>
+    <ad><![CDATA[Apple iPhone 16 Pro Max 256 GB Çöl Titanyum]]></ad>
+    <fiyat>98999.00</fiyat>
+    <kargo_ucreti>0</kargo_ucreti>
+    <stok>120</stok>
+    <marka><![CDATA[Apple]]></marka>
+    <kategori><![CDATA[Telefon > Akıllı Telefon]]></kategori>
+    <magaza><![CDATA[Vatan Bilgisayar]]></magaza>
+    <url>https://www.vatanbilgisayar.com/iphone-16-pro-max-256-gb-col-titanyum.html</url>
+    <resim><![CDATA[https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=800&q=80]]></resim>
+    <aciklama><![CDATA[Vatan güvencesiyle 1 saatte mağazadan teslim veya adrese ücretsiz kargo.]]></aciklama>
+  </urun>
+  <urun>
+    <kod>VAT-S24U</kod>
+    <barkod>8806095392011</barkod>
+    <ad><![CDATA[Samsung Galaxy S24 Ultra 512 GB Titanyum Gri]]></ad>
+    <fiyat>74200.00</fiyat>
+    <kargo_ucreti>0</kargo_ucreti>
+    <stok>85</stok>
+    <marka><![CDATA[Samsung]]></marka>
+    <kategori><![CDATA[Telefon > Akıllı Telefon]]></kategori>
+    <magaza><![CDATA[Vatan Bilgisayar]]></magaza>
+    <url>https://www.vatanbilgisayar.com/samsung-galaxy-s24-ultra-512-gb.html</url>
+    <resim><![CDATA[https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=800&q=80]]></resim>
+    <aciklama><![CDATA[Vatan Mağazalarında test etme imkanı, 3 taksit seçeneği.]]></aciklama>
+  </urun>
+  <urun>
+    <kod>VAT-SONY-WH5</kod>
+    <barkod>4548736132580</barkod>
+    <ad><![CDATA[Sony WH-1000XM5 Kulaküstü ANC Kulaklık Siyah]]></ad>
+    <fiyat>13799.00</fiyat>
+    <kargo_ucreti>0</kargo_ucreti>
+    <stok>60</stok>
+    <marka><![CDATA[Sony]]></marka>
+    <kategori><![CDATA[Ses > Kulaklık]]></kategori>
+    <magaza><![CDATA[Vatan Bilgisayar]]></magaza>
+    <url>https://www.vatanbilgisayar.com/sony-wh-1000xm5-siyah.html</url>
+    <resim><![CDATA[https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=800&q=80]]></resim>
+    <aciklama><![CDATA[Sony Eurasia Garantili orjinal ambalajında.]]></aciklama>
+  </urun>
+  <urun>
+    <kod>VAT-AIRPODS-P2</kod>
+    <barkod>195949052525</barkod>
+    <ad><![CDATA[Apple AirPods Pro 2. Nesil USB-C Şarj Kutulu]]></ad>
+    <fiyat>8999.00</fiyat>
+    <kargo_ucreti>0</kargo_ucreti>
+    <stok>150</stok>
+    <marka><![CDATA[Apple]]></marka>
+    <kategori><![CDATA[Ses > Kulaklık]]></kategori>
+    <magaza><![CDATA[Vatan Bilgisayar]]></magaza>
+    <url>https://www.vatanbilgisayar.com/airpods-pro-2-nesil-usb-c.html</url>
+    <resim><![CDATA[https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=800&q=80]]></resim>
+    <aciklama><![CDATA[Vatan Web Özel İndirimi.]]></aciklama>
+  </urun>
+  <urun>
+    <kod>VAT-PS5-SLIM</kod>
+    <barkod>0711719577232</barkod>
+    <ad><![CDATA[Sony PlayStation 5 Slim 1 TB Digital Sürüm Oyun Konsolu]]></ad>
+    <fiyat>20999.00</fiyat>
+    <kargo_ucreti>0</kargo_ucreti>
+    <stok>70</stok>
+    <marka><![CDATA[Sony]]></marka>
+    <kategori><![CDATA[Oyun > Konsol]]></kategori>
+    <magaza><![CDATA[Vatan Bilgisayar]]></magaza>
+    <url>https://www.vatanbilgisayar.com/ps5-slim-digital-1tb.html</url>
+    <resim><![CDATA[https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=800&q=80]]></resim>
+    <aciklama><![CDATA[Eurasia Garantili kutulu sıfır ürün.]]></aciklama>
+  </urun>
+</urunler>

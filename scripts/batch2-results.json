@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Vatan Bilgisayar",
+    "category": "Bilgisayar & Elektronik",
+    "url": "https://www.vatanbilgisayar.com",
+    "sitemapUrl": "https://www.vatanbilgisayar.com/sitemap.xml",
+    "status": "ERROR",
+    "itemCount": 0,
+    "formatType": "Geçersiz / Erişilemez",
+    "note": "HTTP 404"
+  },
+  {
+    "name": "Teknosa",
+    "category": "Elektronik & Teknoloji",
+    "url": "https://www.teknosa.com",
+    "sitemapUrl": "https://www.teknosa.com/sitemap.xml",
+    "status": "PROTECTED",
+    "itemCount": 0,
+    "formatType": "Cloudflare / WAF / B2B Korumalı",
+    "note": "Cloudflare veya WAF bot koruması aktif (Özel proxy/header gerekir)."
+  },
+  {
+    "name": "MediaMarkt Türkiye",
+    "category": "Elektronik & Teknoloji",
+    "url": "https://www.mediamarkt.com.tr",
+    "sitemapUrl": "https://www.mediamarkt.com.tr/sitemap.xml",
+    "status": "ERROR",
+    "itemCount": 0,
+    "formatType": "Geçersiz / Erişilemez",
+    "note": "HTTP 404"
+  },
+  {
+    "name": "PC Kolik",
+    "category": "Gaming & Bilgisayar",
+    "url": "https://pckolik.com",
+    "sitemapUrl": "https://pckolik.com/sitemap.xml",
+    "status": "ERROR",
+    "itemCount": 0,
+    "formatType": "Geçersiz / Erişilemez",
+    "note": "HTTP Timeout"
+  },
+  {
+    "name": "GameofPC",
+    "category": "Gaming & Bilgisayar",
+    "url": "https://gameofpc.com",
+    "sitemapUrl": "https://gameofpc.com/sitemap.xml",
+    "status": "ERROR",
+    "itemCount": 0,
+    "formatType": "Geçersiz / Erişilemez",
+    "note": "HTTP Timeout"
+  },
+  {
+    "name": "FırsatBuFırsat",
+    "category": "Genel E-Ticaret",
+    "url": "https://www.firsatbufirsat.com",
+    "sitemapUrl": "https://www.firsatbufirsat.com/sitemap.xml",
+    "status": "ERROR",
+    "itemCount": 0,
+    "formatType": "Geçersiz / Erişilemez",
+    "note": "HTTP 200"
+  },
+  {
+    "name": "Kitapyurdu",
+    "category": "Kitap & Kültür",
+    "url": "https://www.kitapyurdu.com",
+    "sitemapUrl": "https://www.kitapyurdu.com/sitemap.xml",
+    "status": "ERROR",
+    "itemCount": 0,
+    "formatType": "Geçersiz / Erişilemez",
+    "note": "HTTP 404"
+  },
+  {
+    "name": "D&R",
+    "category": "Kitap & Hobi",
+    "url": "https://www.dr.com.tr",
+    "sitemapUrl": "https://www.dr.com.tr/sitemap.xml",
+    "status": "ERROR",
+    "itemCount": 0,
+    "formatType": "Geçersiz / Erişilemez",
+    "note": "HTTP 404"
+  },
+  {
+    "name": "İdefix",
+    "category": "Kitap & Teknoloji",
+    "url": "https://www.idefix.com",
+    "sitemapUrl": "https://www.idefix.com/sitemap.xml",
+    "status": "ERROR",
+    "itemCount": 0,
+    "formatType": "Geçersiz / Erişilemez",
+    "note": "HTTP 404"
+  },
+  {
+    "name": "BKM Kitap",
+    "category": "Kitap & Kırtasiye",
+    "url": "https://www.bkmkitap.com",
+    "sitemapUrl": "https://www.bkmkitap.com/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 45,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 45 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "Kidega",
+    "category": "Kitap & Hobi",
+    "url": "https://kidega.com",
+    "sitemapUrl": "https://kidega.com/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 1,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 1 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "Watsons Türkiye",
+    "category": "Kozmetik & Bakım",
+    "url": "https://www.watsons.com.tr",
+    "sitemapUrl": "https://www.watsons.com.tr/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 4,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 4 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "Gratis",
+    "category": "Kozmetik & Bakım",
+    "url": "https://www.gratis.com",
+    "sitemapUrl": "https://www.gratis.com/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 6,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 6 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "Rossmann Türkiye",
+    "category": "Kozmetik & Kişisel Bakım",
+    "url": "https://www.rossmann.com.tr",
+    "sitemapUrl": "https://www.rossmann.com.tr/sitemap.xml",
+    "status": "ERROR",
+    "itemCount": 0,
+    "formatType": "Geçersiz / Erişilemez",
+    "note": "HTTP 404"
+  },
+  {
+    "name": "Sachane",
+    "category": "Kozmetik & Saç Bakımı",
+    "url": "https://sachane.com",
+    "sitemapUrl": "https://sachane.com/sitemap.xml",
+    "status": "ERROR",
+    "itemCount": 0,
+    "formatType": "Geçersiz / Erişilemez",
+    "note": "HTTP 404"
+  },
+  {
+    "name": "Kozmela",
+    "category": "Kozmetik & Makyaj",
+    "url": "https://www.kozmela.com",
+    "sitemapUrl": "https://www.kozmela.com/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 10,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 10 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "Recete",
+    "category": "Dermokozmetik & Eczane",
+    "url": "https://www.recete.com",
+    "sitemapUrl": "https://www.recete.com/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 9,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 9 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "e-bebek",
+    "category": "Anne & Bebek",
+    "url": "https://www.e-bebek.com",
+    "sitemapUrl": "https://www.e-bebek.com/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 8,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 8 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "Joker",
+    "category": "Anne & Bebek",
+    "url": "https://www.joker.com.tr",
+    "sitemapUrl": "https://www.joker.com.tr/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 16,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 16 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "Toyzz Shop",
+    "category": "Oyuncak & Çocuk",
+    "url": "https://www.toyzzshop.com",
+    "sitemapUrl": "https://www.toyzzshop.com/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 6,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 6 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "Armağan Oyuncak",
+    "category": "Oyuncak & Hobi",
+    "url": "https://www.armaganoyuncak.com.tr",
+    "sitemapUrl": "https://www.armaganoyuncak.com.tr/sitemap.xml",
+    "status": "ERROR",
+    "itemCount": 0,
+    "formatType": "Geçersiz / Erişilemez",
+    "note": "HTTP 404"
+  },
+  {
+    "name": "Karaca",
+    "category": "Mutfak & Züccaciye",
+    "url": "https://www.karaca.com",
+    "sitemapUrl": "https://www.karaca.com/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 376,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 376 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "Korkmaz Store",
+    "category": "Mutfak & Tencere",
+    "url": "https://www.korkmazstore.com.tr",
+    "sitemapUrl": "https://www.korkmazstore.com.tr/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 11,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 11 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "Schafer",
+    "category": "Mutfak & Sofra",
+    "url": "https://www.schafer.com.tr",
+    "sitemapUrl": "https://www.schafer.com.tr/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 8,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 8 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "Madame Coco",
+    "category": "Ev Tekstili & Dekorasyon",
+    "url": "https://www.madamecoco.com",
+    "sitemapUrl": "https://www.madamecoco.com/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 5,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 5 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "English Home",
+    "category": "Ev Tekstili & Yaşam",
+    "url": "https://www.englishhome.com",
+    "sitemapUrl": "https://www.englishhome.com/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 10,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 10 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "Linens",
+    "category": "Ev Tekstili & Perde",
+    "url": "https://www.linens.com.tr",
+    "sitemapUrl": "https://www.linens.com.tr/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 1,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 1 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "Yataş Bedding",
+    "category": "Yatak & Ev Tekstili",
+    "url": "https://www.yatasbedding.com.tr",
+    "sitemapUrl": "https://www.yatasbedding.com.tr/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 4,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 4 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "Bellona",
+    "category": "Mobilya & Dekorasyon",
+    "url": "https://www.bellona.com.tr",
+    "sitemapUrl": "https://www.bellona.com.tr/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 47,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 47 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "İstikbal",
+    "category": "Mobilya & Ev Eşyaları",
+    "url": "https://www.istikbal.com.tr",
+    "sitemapUrl": "https://www.istikbal.com.tr/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 47,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 47 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "Kelebek Mobilya",
+    "category": "Mobilya & Tasarım",
+    "url": "https://www.kelebek.com",
+    "sitemapUrl": "https://www.kelebek.com/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 24,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 24 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "Koçtaş",
+    "category": "Yapı Market & Ev",
+    "url": "https://www.koctas.com.tr",
+    "sitemapUrl": "https://www.koctas.com.tr/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 131,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 131 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "Bauhaus Türkiye",
+    "category": "Yapı Market & Bahçe",
+    "url": "https://www.bauhaus.com.tr",
+    "sitemapUrl": "https://www.bauhaus.com.tr/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 2,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 2 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "ToptanTR",
+    "category": "Toptan Hızlı Tüketim",
+    "url": "https://www.toptantr.com",
+    "sitemapUrl": "https://www.toptantr.com/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 2,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 2 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "Bizim Toptan",
+    "category": "Toptan Market",
+    "url": "https://www.bizimtoptan.com.tr",
+    "sitemapUrl": "https://www.bizimtoptan.com.tr/sitemap.xml",
+    "status": "WORKING_SITEMAP",
+    "itemCount": 5,
+    "formatType": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "note": "Sitemap XML'i %100 açık; 5 adet ürün/kategori bağlantısı veriyor."
+  },
+  {
+    "name": "A101 Online",
+    "category": "Market & Elektronik",
+    "url": "https://www.a101.com.tr",
+    "sitemapUrl": "https://www.a101.com.tr/sitemap.xml",
+    "status": "PROTECTED",
+    "itemCount": 0,
+    "formatType": "Cloudflare / WAF / B2B Korumalı",
+    "note": "Cloudflare veya WAF bot koruması aktif (Özel proxy/header gerekir)."
+  },
+  {
+    "name": "Şok Market (Cepte Şok)",
+    "category": "Market & Aktüel",
+    "url": "https://www.sokmarket.com.tr",
+    "sitemapUrl": "https://www.sokmarket.com.tr/sitemap.xml",
+    "status": "ERROR",
+    "itemCount": 0,
+    "formatType": "Geçersiz / Erişilemez",
+    "note": "HTTP 404"
+  },
+  {
+    "name": "Migros Sanal Market",
+    "category": "Süpermarket & Elektronik",
+    "url": "https://www.migros.com.tr",
+    "sitemapUrl": "https://www.migros.com.tr/sitemap.xml",
+    "status": "ERROR",
+    "itemCount": 0,
+    "formatType": "Geçersiz / Erişilemez",
+    "note": "HTTP 200"
+  },
+  {
+    "name": "CarrefourSA",
+    "category": "Süpermarket & Beyaz Eşya",
+    "url": "https://www.carrefoursa.com",
+    "sitemapUrl": "https://www.carrefoursa.com/sitemap.xml",
+    "status": "PROTECTED",
+    "itemCount": 0,
+    "formatType": "Cloudflare / WAF / B2B Korumalı",
+    "note": "Cloudflare veya WAF bot koruması aktif (Özel proxy/header gerekir)."
+  }
+]

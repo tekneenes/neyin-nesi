@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Akakçe Standart Ürün Besleme XML Formatı (Official Merchant Specification) -->
+<!-- Mağaza: İncehesap | Altyapı: IdeaSoft / Ticimax / T-Soft Export Engine -->
+<urunler>
+  <urun>
+    <kod>INC-IPH16PM</kod>
+    <barkod>195949038291</barkod>
+    <ad><![CDATA[Apple iPhone 16 Pro Max 256 GB Çöl Titanyum (Apple Türkiye)]]></ad>
+    <fiyat>97450.00</fiyat>
+    <kargo_ucreti>0</kargo_ucreti>
+    <stok>35</stok>
+    <marka><![CDATA[Apple]]></marka>
+    <kategori><![CDATA[Telefon > Akıllı Telefon]]></kategori>
+    <magaza><![CDATA[İncehesap]]></magaza>
+    <url>https://www.incehesap.com/apple-iphone-16-pro-max-256gb-fiyati-195949038291</url>
+    <resim><![CDATA[https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=800&q=80]]></resim>
+    <aciklama><![CDATA[Apple Türkiye Garantili. Aynı gün ücretsiz sigortalı kargo.]]></aciklama>
+  </urun>
+  <urun>
+    <kod>INC-S24U</kod>
+    <barkod>8806095392011</barkod>
+    <ad><![CDATA[Samsung Galaxy S24 Ultra 512 GB Titanyum Gri]]></ad>
+    <fiyat>72990.00</fiyat>
+    <kargo_ucreti>0</kargo_ucreti>
+    <stok>50</stok>
+    <marka><![CDATA[Samsung]]></marka>
+    <kategori><![CDATA[Telefon > Akıllı Telefon]]></kategori>
+    <magaza><![CDATA[İncehesap]]></magaza>
+    <url>https://www.incehesap.com/samsung-galaxy-s24-ultra-512gb-fiyati-8806095392011</url>
+    <resim><![CDATA[https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?auto=format&fit=crop&w=800&q=80]]></resim>
+    <aciklama><![CDATA[Samsung TR Garantili. Galaxy AI destekli amiral gemisi.]]></aciklama>
+  </urun>
+  <urun>
+    <kod>INC-MBA-M3</kod>
+    <barkod>195949129031</barkod>
+    <ad><![CDATA[Apple MacBook Air 13.6 inç M3 16GB RAM 512GB SSD Gece Yarısı]]></ad>
+    <fiyat>52899.00</fiyat>
+    <kargo_ucreti>0</kargo_ucreti>
+    <stok>22</stok>
+    <marka><![CDATA[Apple]]></marka>
+    <kategori><![CDATA[Bilgisayar > Laptop]]></kategori>
+    <magaza><![CDATA[İncehesap]]></magaza>
+    <url>https://www.incehesap.com/apple-macbook-air-m3-16gb-fiyati-195949129031</url>
+    <resim><![CDATA[https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80]]></resim>
+    <aciklama><![CDATA[Öğrenci ve profesyonellere özel İncehesap indirimli lansman fiyatı.]]></aciklama>
+  </urun>
+  <urun>
+    <kod>INC-ASUS-G16</kod>
+    <barkod>4711387492019</barkod>
+    <ad><![CDATA[Asus ROG Strix G16 G614JZR Intel i9-14900HX 32GB 1TB RTX 4080 240Hz]]></ad>
+    <fiyat>89999.00</fiyat>
+    <kargo_ucreti>0</kargo_ucreti>
+    <stok>15</stok>
+    <marka><![CDATA[Asus]]></marka>
+    <kategori><![CDATA[Bilgisayar > Gaming Laptop]]></kategori>
+    <magaza><![CDATA[İncehesap]]></magaza>
+    <url>https://www.incehesap.com/asus-rog-strix-g16-rtx4080-fiyati-4711387492019</url>
+    <resim><![CDATA[https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=800&q=80]]></resim>
+    <aciklama><![CDATA[Gaming Gecesi özel fiyatı. Sıvı metal soğutma ve 175W RTX 4080.]]></aciklama>
+  </urun>
+  <urun>
+    <kod>INC-DELL-AW3423</kod>
+    <barkod>5397184674312</barkod>
+    <ad><![CDATA[Dell Alienware AW3423DWF 34 inç 165Hz QD-OLED Kavisli Monitör]]></ad>
+    <fiyat>34999.00</fiyat>
+    <kargo_ucreti>0</kargo_ucreti>
+    <stok>25</stok>
+    <marka><![CDATA[Dell]]></marka>
+    <kategori><![CDATA[Bilgisayar > Monitör]]></kategori>
+    <magaza><![CDATA[İncehesap]]></magaza>
+    <url>https://www.incehesap.com/dell-alienware-aw3423dwf-oled-fiyati-5397184674312</url>
+    <resim><![CDATA[https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80]]></resim>
+    <aciklama><![CDATA[0.1 ms tepki süresi, sonsuz kontrast ve 3 yıl yanma garantisi.]]></aciklama>
+  </urun>
+</urunler>

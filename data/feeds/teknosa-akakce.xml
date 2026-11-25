@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Akakçe Standart Ürün Besleme XML Formatı (Official Merchant Specification) -->
+<!-- Mağaza: Teknosa | Altyapı: IdeaSoft / Ticimax / T-Soft Export Engine -->
+<urunler>
+  <urun>
+    <kod>TEK-IPH16PM</kod>
+    <barkod>195949038291</barkod>
+    <ad><![CDATA[Apple iPhone 16 Pro Max 256 GB Çöl Titanyum]]></ad>
+    <fiyat>99199.00</fiyat>
+    <kargo_ucreti>0</kargo_ucreti>
+    <stok>90</stok>
+    <marka><![CDATA[Apple]]></marka>
+    <kategori><![CDATA[Telefon > Akıllı Telefon]]></kategori>
+    <magaza><![CDATA[Teknosa]]></magaza>
+    <url>https://www.teknosa.com/apple-iphone-16-pro-max-256gb-col-titanyum-p-195949038291</url>
+    <resim><![CDATA[https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=800&q=80]]></resim>
+    <aciklama><![CDATA[Teknosa Turuncu İndirim avantajıyla.]]></aciklama>
+  </urun>
+  <urun>
+    <kod>TEK-SONY-WH5</kod>
+    <barkod>4548736132580</barkod>
+    <ad><![CDATA[Sony WH-1000XM5 Kablosuz Kulaklık Siyah]]></ad>
+    <fiyat>13499.00</fiyat>
+    <kargo_ucreti>0</kargo_ucreti>
+    <stok>45</stok>
+    <marka><![CDATA[Sony]]></marka>
+    <kategori><![CDATA[Ses > Kulaklık]]></kategori>
+    <magaza><![CDATA[Teknosa]]></magaza>
+    <url>https://www.teknosa.com/sony-wh1000xm5-kulaklik-p-4548736132580</url>
+    <resim><![CDATA[https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=800&q=80]]></resim>
+    <aciklama><![CDATA[En iyi ses ve mikrofon performansı ödüllü kulaklık.]]></aciklama>
+  </urun>
+  <urun>
+    <kod>TEK-DYSON-V15</kod>
+    <barkod>5025155074211</barkod>
+    <ad><![CDATA[Dyson V15 Detect Absolute Şarjlı Süpürge]]></ad>
+    <fiyat>28999.00</fiyat>
+    <kargo_ucreti>0</kargo_ucreti>
+    <stok>30</stok>
+    <marka><![CDATA[Dyson]]></marka>
+    <kategori><![CDATA[Ev Aletleri > Süpürge]]></kategori>
+    <magaza><![CDATA[Teknosa]]></magaza>
+    <url>https://www.teknosa.com/dyson-v15-detect-absolute-p-5025155074211</url>
+    <resim><![CDATA[https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80]]></resim>
+    <aciklama><![CDATA[Dyson Türkiye Resmi Garantili.]]></aciklama>
+  </urun>
+  <urun>
+    <kod>TEK-PHILIPS-AF</kod>
+    <barkod>8710103825838</barkod>
+    <ad><![CDATA[Philips HD9650/90 Airfryer XXL Fritöz]]></ad>
+    <fiyat>6999.00</fiyat>
+    <kargo_ucreti>0</kargo_ucreti>
+    <stok>120</stok>
+    <marka><![CDATA[Philips]]></marka>
+    <kategori><![CDATA[Ev Aletleri > Mutfak]]></kategori>
+    <magaza><![CDATA[Teknosa]]></magaza>
+    <url>https://www.teknosa.com/philips-hd9650-airfryer-xxl-p-8710103825838</url>
+    <resim><![CDATA[https://images.unsplash.com/photo-1585515320310-259814833e62?auto=format&fit=crop&w=800&q=80]]></resim>
+    <aciklama><![CDATA[Philips Türkiye 2 Yıl Garantili.]]></aciklama>
+  </urun>
+</urunler>

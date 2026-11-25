@@ -1,0 +1,924 @@
+[
+  {
+    "name": "İtopya XML 0",
+    "category": "Bilgisayar",
+    "url": "https://www.itopya.com/xml/itopya_products_0.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "text/xml",
+    "itemCount": 900,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (dell-alienware-aw2524hf-245-500hz-05ms-hdmi-dp-freesync-premium-pivot-fast-ips-fhd-gaming-monitor_u24192)",
+      "sku": "https://www.itopya.com/dell-alienware-aw2524hf-245-500hz-05ms-hdmi-dp-freesync-premium-pivot-fast-ips-fhd-gaming-monitor_u24192"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "İtopya XML 1",
+    "category": "Bilgisayar",
+    "url": "https://www.itopya.com/xml/itopya_products_1.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "text/xml",
+    "itemCount": 900,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (ada-buyuk-nova-amd-ryzen-7-7800x3d-msi-geforce-rtx-5070-12gb-32gb-ddr5-1tb-m2-ssd-oem-pa_h30545)",
+      "sku": "https://www.itopya.com/ada-buyuk-nova-amd-ryzen-7-7800x3d-msi-geforce-rtx-5070-12gb-32gb-ddr5-1tb-m2-ssd-oem-pa_h30545"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "İtopya XML 2",
+    "category": "Bilgisayar",
+    "url": "https://www.itopya.com/xml/itopya_products_2.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "text/xml",
+    "itemCount": 900,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (asus-vivobook-15-i5-1334u-8gb-ddr4-512gb-ssd-156-fhd-60hz-freedos-notebook_u28849)",
+      "sku": "https://www.itopya.com/asus-vivobook-15-i5-1334u-8gb-ddr4-512gb-ssd-156-fhd-60hz-freedos-notebook_u28849"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "İtopya XML 3",
+    "category": "Bilgisayar",
+    "url": "https://www.itopya.com/xml/itopya_products_3.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "text/xml",
+    "itemCount": 900,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (corsair-icue-link-titan-360-rx-rgb-aio-360mm-siyah-islemci-sivi-sogutucu_u28224)",
+      "sku": "https://www.itopya.com/corsair-icue-link-titan-360-rx-rgb-aio-360mm-siyah-islemci-sivi-sogutucu_u28224"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "İtopya XML 4",
+    "category": "Bilgisayar",
+    "url": "https://www.itopya.com/xml/itopya_products_4.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "text/xml",
+    "itemCount": 900,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (corsair-t3-rush-fabric-siyah-2023-oyuncu-koltugu_u24055)",
+      "sku": "https://www.itopya.com/corsair-t3-rush-fabric-siyah-2023-oyuncu-koltugu_u24055"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Sinerji XML / Sitemap",
+    "category": "Bilgisayar",
+    "url": "https://www.sinerji.gen.tr/sitemap.xml",
+    "status": "PROTECTED_B2B",
+    "httpStatus": 403,
+    "contentType": "text/html; charset=UTF-8",
+    "note": "Şifreli / Özel B2B Bayilik veya API Anahtarı İstiyor (Doğrudan açık değil)"
+  },
+  {
+    "name": "Sinerji Akakçe",
+    "category": "Bilgisayar",
+    "url": "https://www.sinerji.gen.tr/xml/akakce.xml",
+    "status": "PROTECTED_B2B",
+    "httpStatus": 403,
+    "contentType": "text/html; charset=UTF-8",
+    "note": "Şifreli / Özel B2B Bayilik veya API Anahtarı İstiyor (Doğrudan açık değil)"
+  },
+  {
+    "name": "İncehesap Akakçe",
+    "category": "Bilgisayar",
+    "url": "https://www.incehesap.com/xml/akakce.xml",
+    "status": "PROTECTED_B2B",
+    "httpStatus": 403,
+    "contentType": "text/html; charset=UTF-8",
+    "note": "Şifreli / Özel B2B Bayilik veya API Anahtarı İstiyor (Doğrudan açık değil)"
+  },
+  {
+    "name": "İncehesap Cimri",
+    "category": "Bilgisayar",
+    "url": "https://www.incehesap.com/xml/cimri.xml",
+    "status": "PROTECTED_B2B",
+    "httpStatus": 403,
+    "contentType": "text/html; charset=UTF-8",
+    "note": "Şifreli / Özel B2B Bayilik veya API Anahtarı İstiyor (Doğrudan açık değil)"
+  },
+  {
+    "name": "İncehesap Sitemap",
+    "category": "Bilgisayar",
+    "url": "https://www.incehesap.com/sitemap.xml",
+    "status": "PROTECTED_B2B",
+    "httpStatus": 403,
+    "contentType": "text/html; charset=UTF-8",
+    "note": "Şifreli / Özel B2B Bayilik veya API Anahtarı İstiyor (Doğrudan açık değil)"
+  },
+  {
+    "name": "Gaming.gen.tr Sitemap",
+    "category": "Bilgisayar",
+    "url": "https://www.gaming.gen.tr/sitemap_products_1.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html; charset=UTF-8",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "Gaming.gen.tr Akakce",
+    "category": "Bilgisayar",
+    "url": "https://www.gaming.gen.tr/xml/akakce/",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html; charset=UTF-8",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "GameGaraj Akakce",
+    "category": "Bilgisayar",
+    "url": "https://www.gamegaraj.com/xml/akakce.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html; charset=utf-8",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "GameGaraj Sitemap",
+    "category": "Bilgisayar",
+    "url": "https://www.gamegaraj.com/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "application/xml; charset=utf-8",
+    "itemCount": 4,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (products.xml)",
+      "sku": "https://www.gamegaraj.com/products.xml"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Tebilon Ideasoft",
+    "category": "Bilgisayar",
+    "url": "https://www.tebilon.com/index.php?do=catalog/output&p-code=akakce",
+    "status": "PROTECTED_B2B",
+    "httpStatus": 403,
+    "contentType": "text/html; charset=UTF-8",
+    "note": "Şifreli / Özel B2B Bayilik veya API Anahtarı İstiyor (Doğrudan açık değil)"
+  },
+  {
+    "name": "Tebilon Sitemap",
+    "category": "Bilgisayar",
+    "url": "https://www.tebilon.com/sitemap.xml",
+    "status": "PROTECTED_B2B",
+    "httpStatus": 403,
+    "contentType": "text/html; charset=UTF-8",
+    "note": "Şifreli / Özel B2B Bayilik veya API Anahtarı İstiyor (Doğrudan açık değil)"
+  },
+  {
+    "name": "Gençer Gaming Ticimax",
+    "category": "Bilgisayar",
+    "url": "https://www.gencergaming.com/TicimaxXml.php",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "Gençer Gaming Akakce",
+    "category": "Bilgisayar",
+    "url": "https://www.gencergaming.com/xml/akakce.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "Gençer Gaming Sitemap",
+    "category": "Bilgisayar",
+    "url": "https://www.gencergaming.com/sitemap.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "QP Bilişim Akakce",
+    "category": "Bilgisayar",
+    "url": "https://www.qp.com.tr/xml/akakce.xml",
+    "status": "ERROR",
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "note": "200 OK döndü fakat XML formatında değil (HTML login veya bot blok sayfası)"
+  },
+  {
+    "name": "QP Bilişim Sitemap",
+    "category": "Bilgisayar",
+    "url": "https://www.qp.com.tr/sitemap.xml",
+    "status": "ERROR",
+    "httpStatus": 200,
+    "contentType": "text/html",
+    "note": "200 OK döndü fakat XML formatında değil (HTML login veya bot blok sayfası)"
+  },
+  {
+    "name": "DFS Bilgisayar Sitemap",
+    "category": "Bilgisayar",
+    "url": "https://www.dfsbilgisayar.com/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "text/xml;charset=UTF-8",
+    "itemCount": 1436,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı ()",
+      "sku": "https://www.dfsbilgisayar.com/"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Teknobiyotik Akakce",
+    "category": "Bilgisayar",
+    "url": "https://www.teknobiyotik.com/xml/akakce.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "Teknobiyotik Sitemap",
+    "category": "Bilgisayar",
+    "url": "https://www.teknobiyotik.com/sitemap.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "Bizdehesaplı Akakce",
+    "category": "Bilgisayar",
+    "url": "https://www.bizdehesapli.com/xml/akakce.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html; charset=utf-8",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "Bizdehesaplı Sitemap",
+    "category": "Bilgisayar",
+    "url": "https://www.bizdehesapli.com/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "text/xml; charset=utf-8",
+    "itemCount": 0,
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Webdenal Akakce",
+    "category": "Bilgisayar",
+    "url": "https://www.webdenal.com/export/akakce.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html; charset=utf-8",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "Webdenal Sitemap",
+    "category": "Bilgisayar",
+    "url": "https://www.webdenal.com/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "application/xml",
+    "itemCount": 2,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı ()",
+      "sku": "https://webdenal.com/"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Depopark Akakce",
+    "category": "Bilgisayar",
+    "url": "https://www.depopark.com/xml/akakce.xml",
+    "status": "ERROR",
+    "note": "Bağlantı hatası: fetch failed"
+  },
+  {
+    "name": "Depopark Sitemap",
+    "category": "Bilgisayar",
+    "url": "https://www.depopark.com/sitemap.xml",
+    "status": "ERROR",
+    "note": "Bağlantı hatası: fetch failed"
+  },
+  {
+    "name": "Robotistan Akakce",
+    "category": "Elektronik",
+    "url": "https://www.robotistan.com/xml/akakce.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html; charset=UTF-8",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "Robotistan Sitemap",
+    "category": "Elektronik",
+    "url": "https://www.robotistan.com/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "application/xml",
+    "itemCount": 13,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (page.xml)",
+      "sku": "https://www.robotistan.com/xml/sitemap/page.xml"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Robotistan Google Feed",
+    "category": "Elektronik",
+    "url": "https://www.robotistan.com/xml/google.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html; charset=UTF-8",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "Robot Sepeti Ideasoft",
+    "category": "Elektronik",
+    "url": "https://www.robotsepeti.com/index.php?do=catalog/output&p-code=akakce",
+    "status": "ERROR",
+    "httpStatus": 200,
+    "contentType": "text/html; charset=UTF-8",
+    "note": "200 OK döndü fakat XML formatında değil (HTML login veya bot blok sayfası)"
+  },
+  {
+    "name": "Robot Sepeti Sitemap",
+    "category": "Elektronik",
+    "url": "https://www.robotsepeti.com/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "application/xml",
+    "itemCount": 6,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (page.xml)",
+      "sku": "https://www.robotsepeti.com/xml/sitemap/page.xml"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Direnç Net Akakce",
+    "category": "Elektronik",
+    "url": "https://www.direnc.net/xml/akakce.xml",
+    "status": "ERROR",
+    "httpStatus": 200,
+    "contentType": "text/html; charset=UTF-8",
+    "note": "200 OK döndü fakat XML formatında değil (HTML login veya bot blok sayfası)"
+  },
+  {
+    "name": "Direnç Net Sitemap",
+    "category": "Elektronik",
+    "url": "https://www.direnc.net/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "application/xml",
+    "itemCount": 9,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (page.xml)",
+      "sku": "https://www.direnc.net/xml/sitemap/page.xml"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Samm Market Google Feed",
+    "category": "Elektronik",
+    "url": "https://market.samm.com/xml/google.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html; charset=utf-8",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "Samm Market Sitemap",
+    "category": "Elektronik",
+    "url": "https://market.samm.com/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "application/xml",
+    "itemCount": 4,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (pages.xml)",
+      "sku": "https://market.samm.com/pages.xml"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Merter Elektronik Akakce",
+    "category": "Elektronik",
+    "url": "https://www.merterelektronik.com/xml/akakce.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html; charset=utf-8",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "Merter Elektronik Ticimax",
+    "category": "Elektronik",
+    "url": "https://www.merterelektronik.com/TicimaxXml.php",
+    "status": "PROTECTED_B2B",
+    "httpStatus": 403,
+    "contentType": "text/html; charset=UTF-8",
+    "note": "Şifreli / Özel B2B Bayilik veya API Anahtarı İstiyor (Doğrudan açık değil)"
+  },
+  {
+    "name": "Merter Elektronik Sitemap",
+    "category": "Elektronik",
+    "url": "https://www.merterelektronik.com/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "text/xml; charset=utf-8",
+    "itemCount": 108,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (0.xml)",
+      "sku": "https://www.merterelektronik.com/sitemap/products/0.xml"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "3D Market Sitemap",
+    "category": "Elektronik",
+    "url": "https://www.3dmarket.com.tr/sitemap.xml",
+    "status": "ERROR",
+    "note": "Bağlantı hatası: fetch failed"
+  },
+  {
+    "name": "E-Hırdavat Akakce",
+    "category": "Hırdavat",
+    "url": "https://www.e-hirdavat.com/xml/akakce.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "E-Hırdavat Sitemap",
+    "category": "Hırdavat",
+    "url": "https://www.e-hirdavat.com/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "text/xml",
+    "itemCount": 58,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (sitemap_product_8.xml?sr=6acd950e11a0d)",
+      "sku": "https://www.e-hirdavat.com/xml/sitemap_product_8.xml?sr=6acd950e11a0d"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Hırdavat Fırsatı Ideasoft",
+    "category": "Hırdavat",
+    "url": "https://www.hirdavatfirsati.com/index.php?do=catalog/output&p-code=akakce",
+    "status": "ERROR",
+    "httpStatus": 200,
+    "contentType": "text/html; charset=utf-8",
+    "note": "200 OK döndü fakat XML formatında değil (HTML login veya bot blok sayfası)"
+  },
+  {
+    "name": "Hırdavat Fırsatı Sitemap",
+    "category": "Hırdavat",
+    "url": "https://www.hirdavatfirsati.com/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "application/xml; charset=utf-8",
+    "itemCount": 7,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (products-1.xml)",
+      "sku": "https://hirdavatfirsati.com/sitemaps/products-1.xml"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Nalburcuk Sitemap",
+    "category": "Hırdavat",
+    "url": "https://www.nalburcuk.com/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "text/xml",
+    "itemCount": 172,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (sitemap_product_8.xml?sr=6acd911301b58)",
+      "sku": "https://www.nalburcuk.com/xml/sitemap_product_8.xml?sr=6acd911301b58"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Makina Market Akakce",
+    "category": "Hırdavat",
+    "url": "https://www.makinamarket.com.tr/xml/akakce.xml",
+    "status": "ERROR",
+    "note": "Bağlantı hatası: fetch failed"
+  },
+  {
+    "name": "Makina Market Sitemap",
+    "category": "Hırdavat",
+    "url": "https://www.makinamarket.com.tr/sitemap.xml",
+    "status": "ERROR",
+    "note": "Bağlantı hatası: fetch failed"
+  },
+  {
+    "name": "Mavi Kozmetik Akakce",
+    "category": "Kozmetik",
+    "url": "https://www.mavikozmetik.com.tr/xml/akakce.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html; charset=utf-8",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "Mavi Kozmetik Sitemap",
+    "category": "Kozmetik",
+    "url": "https://www.mavikozmetik.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "text/xml",
+    "itemCount": 118,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (www.mavikozmetik.com.tr)",
+      "sku": "https://www.mavikozmetik.com.tr"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Dermokozmetika Ideasoft",
+    "category": "Kozmetik",
+    "url": "https://www.dermokozmetika.com.tr/index.php?do=catalog/output&p-code=akakce",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html; charset=UTF-8",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "Dermokozmetika Sitemap",
+    "category": "Kozmetik",
+    "url": "https://www.dermokozmetika.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "application/xml",
+    "itemCount": 9,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (blog.xml)",
+      "sku": "https://www.dermokozmetika.com.tr/xml/sitemap/blog.xml"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Narecza Akakce",
+    "category": "Kozmetik",
+    "url": "https://www.narecza.com/xml/akakce.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html; charset=UTF-8",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "Narecza Sitemap",
+    "category": "Kozmetik",
+    "url": "https://www.narecza.com/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "application/xml",
+    "itemCount": 10,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (blog.xml)",
+      "sku": "https://www.narecza.com/xml/sitemap/blog.xml"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "DermoEczanem Akakce",
+    "category": "Kozmetik",
+    "url": "https://www.dermoeczanem.com/xml/akakce.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html; charset=UTF-8",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "DermoEczanem Sitemap",
+    "category": "Kozmetik",
+    "url": "https://www.dermoeczanem.com/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "application/xml",
+    "itemCount": 14,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (blog.xml)",
+      "sku": "https://www.dermoeczanem.com/xml/sitemap/blog.xml"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Cosmetica Sitemap",
+    "category": "Kozmetik",
+    "url": "https://www.cosmetica.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "application/xml",
+    "itemCount": 4,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (pages.xml)",
+      "sku": "https://www.cosmetica.com.tr/pages.xml"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "İlke Bebe Akakce",
+    "category": "Anne & Bebek",
+    "url": "https://www.ilkebebe.com/xml/akakce.xml",
+    "status": "ERROR",
+    "httpStatus": 200,
+    "contentType": "text/html; charset=utf-8",
+    "note": "200 OK döndü fakat XML formatında değil (HTML login veya bot blok sayfası)"
+  },
+  {
+    "name": "İlke Bebe Sitemap",
+    "category": "Anne & Bebek",
+    "url": "https://www.ilkebebe.com/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "text/xml",
+    "itemCount": 22131,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı ()",
+      "sku": "https://www.ilkebebe.com/"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Babymall Akakce",
+    "category": "Anne & Bebek",
+    "url": "https://www.babymall.com.tr/xml/akakce.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html; charset=UTF-8",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "Babymall Sitemap",
+    "category": "Anne & Bebek",
+    "url": "https://www.babymall.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "application/xml",
+    "itemCount": 14,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (blog_category.xml)",
+      "sku": "https://www.babymall.com.tr/xml/sitemap/blog_category.xml"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Civilim Sitemap",
+    "category": "Anne & Bebek",
+    "url": "https://www.civilim.com/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "application/xml; charset=utf-8",
+    "itemCount": 83,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (sitemap_agentic_discovery.xml)",
+      "sku": "https://www.civilim.com/sitemap_agentic_discovery.xml"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Mucit Panda Sitemap",
+    "category": "Anne & Bebek",
+    "url": "https://www.mucitpanda.com/sitemap.xml",
+    "status": "PROTECTED_B2B",
+    "httpStatus": 403,
+    "contentType": "text/html; charset=UTF-8",
+    "note": "Şifreli / Özel B2B Bayilik veya API Anahtarı İstiyor (Doğrudan açık değil)"
+  },
+  {
+    "name": "Enplus Akakce",
+    "category": "Ev & Yaşam",
+    "url": "https://www.enplus.com.tr/xml/akakce.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html; charset=utf-8",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "Enplus Sitemap",
+    "category": "Ev & Yaşam",
+    "url": "https://www.enplus.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "text/xml; charset=utf-8",
+    "itemCount": 14,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (0.xml)",
+      "sku": "https://www.enplus.com.tr/sitemap/products/0.xml"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Evidea Sitemap",
+    "category": "Ev & Yaşam",
+    "url": "https://www.evidea.com/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "application/xml",
+    "itemCount": 5,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (sitemap-categories-1.xml.gz)",
+      "sku": "https://www.evidea.com/sitemaps/sitemap-categories-1.xml.gz"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Porland Sitemap",
+    "category": "Ev & Yaşam",
+    "url": "https://www.porland.com/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "application/xml",
+    "itemCount": 5,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (sitemap-categories-1.xml.gz)",
+      "sku": "https://s3.eu-central-1.amazonaws.com/c366f1/sitemaps/sitemaps/sitemap-categories-1.xml.gz"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Biev Ticimax",
+    "category": "Ev & Yaşam",
+    "url": "https://www.biev.com.tr/TicimaxXml.php",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html; charset=UTF-8",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "Biev Sitemap",
+    "category": "Ev & Yaşam",
+    "url": "https://www.biev.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "text/xml; charset=UTF-8",
+    "itemCount": 1,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (1.xml)",
+      "sku": "https://www.biev.com.tr/sitemap/pages/1.xml"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Juen Pet Market Akakce",
+    "category": "Pet Shop",
+    "url": "https://www.juenpetmarket.com/xml/akakce.xml",
+    "status": "ERROR",
+    "note": "Bağlantı hatası: The operation was aborted due to timeout"
+  },
+  {
+    "name": "Juen Pet Market Sitemap",
+    "category": "Pet Shop",
+    "url": "https://www.juenpetmarket.com/sitemap.xml",
+    "status": "ERROR",
+    "note": "Bağlantı hatası: The operation was aborted due to timeout"
+  },
+  {
+    "name": "Petzzshop Sitemap",
+    "category": "Pet Shop",
+    "url": "https://www.petzzshop.com/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "application/xml",
+    "itemCount": 3,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (blogs.xml)",
+      "sku": "https://www.petzzshop.com/blogs.xml"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Markamama Ticimax",
+    "category": "Pet Shop",
+    "url": "https://www.markamama.com.tr/TicimaxXml.php",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html; charset=UTF-8",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "Markamama Sitemap",
+    "category": "Pet Shop",
+    "url": "https://www.markamama.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "application/xml",
+    "itemCount": 11,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (blog.xml)",
+      "sku": "https://markamama.com.tr/xml/sitemap/blog.xml"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Modacar Akakce",
+    "category": "Oto Aksesuar",
+    "url": "https://www.modacar.com.tr/xml/akakce.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html; charset=iso-8859-1",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "Modacar Sitemap",
+    "category": "Oto Aksesuar",
+    "url": "https://www.modacar.com.tr/sitemap.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html; charset=iso-8859-1",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "Lastikcim Akakce",
+    "category": "Oto Aksesuar",
+    "url": "https://www.lastikcim.com.tr/xml/akakce.xml",
+    "status": "ERROR",
+    "httpStatus": 200,
+    "contentType": "text/html; charset=utf-8",
+    "note": "200 OK döndü fakat XML formatında değil (HTML login veya bot blok sayfası)"
+  },
+  {
+    "name": "Lastikcim Sitemap",
+    "category": "Oto Aksesuar",
+    "url": "https://www.lastikcim.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "text/xml",
+    "itemCount": 7,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (labels.xml)",
+      "sku": "https://www.lastikcim.com.tr/sitemap/labels.xml"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "KolayOto Sitemap",
+    "category": "Oto Aksesuar",
+    "url": "https://www.kolayoto.com/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "application/xml; charset=utf-8",
+    "itemCount": 36,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (sitemap_agentic_discovery.xml)",
+      "sku": "https://kolayoto.com/sitemap_agentic_discovery.xml"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Dagi Akakce",
+    "category": "Giyim",
+    "url": "https://www.dagi.com.tr/xml/akakce.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "application/xml; charset=utf-8",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "Dagi Sitemap",
+    "category": "Giyim",
+    "url": "https://www.dagi.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "httpStatus": 200,
+    "contentType": "application/xml; charset=utf-8",
+    "itemCount": 15,
+    "sampleProduct": {
+      "name": "Sitemap Bağlantısı (sitemap_agentic_discovery.xml)",
+      "sku": "https://www.dagi.com.tr/sitemap_agentic_discovery.xml"
+    },
+    "note": "Aktif ve Erişilebilir (%100 Gerçek Ürün Sitemap Index)"
+  },
+  {
+    "name": "Ayakkabı Dünyası Sitemap",
+    "category": "Giyim",
+    "url": "https://www.ayakkabidunyasi.com.tr/sitemap.xml",
+    "status": "ERROR",
+    "httpStatus": 404,
+    "contentType": "text/html; charset=utf-8",
+    "note": "HTTP 404 Hatası (Geçersiz URL veya kaldırılmış)"
+  },
+  {
+    "name": "İrmak Moda Ticimax",
+    "category": "Giyim",
+    "url": "https://www.irmakmoda.com/TicimaxXml.php",
+    "status": "ERROR",
+    "note": "Bağlantı hatası: fetch failed"
+  },
+  {
+    "name": "İrmak Moda Sitemap",
+    "category": "Giyim",
+    "url": "https://www.irmakmoda.com/sitemap.xml",
+    "status": "ERROR",
+    "note": "Bağlantı hatası: fetch failed"
+  }
+]

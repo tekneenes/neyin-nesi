@@ -1,0 +1,818 @@
+[
+  {
+    "id": 1,
+    "name": "İtopya XML 0",
+    "category": "Bilgisayar",
+    "url": "https://www.itopya.com/xml/itopya_products_0.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 900
+  },
+  {
+    "id": 2,
+    "name": "İtopya XML 1",
+    "category": "Bilgisayar",
+    "url": "https://www.itopya.com/xml/itopya_products_1.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 900
+  },
+  {
+    "id": 3,
+    "name": "İtopya XML 2",
+    "category": "Bilgisayar",
+    "url": "https://www.itopya.com/xml/itopya_products_2.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 900
+  },
+  {
+    "id": 4,
+    "name": "İtopya XML 3",
+    "category": "Bilgisayar",
+    "url": "https://www.itopya.com/xml/itopya_products_3.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 900
+  },
+  {
+    "id": 5,
+    "name": "İtopya XML 4",
+    "category": "Bilgisayar",
+    "url": "https://www.itopya.com/xml/itopya_products_4.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 900
+  },
+  {
+    "id": 6,
+    "name": "GameGaraj Sitemap",
+    "category": "Bilgisayar",
+    "url": "https://www.gamegaraj.com/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 4
+  },
+  {
+    "id": 7,
+    "name": "DFS Bilgisayar Sitemap",
+    "category": "Bilgisayar",
+    "url": "https://www.dfsbilgisayar.com/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 1436
+  },
+  {
+    "id": 8,
+    "name": "Bizdehesaplı Sitemap",
+    "category": "Bilgisayar",
+    "url": "https://www.bizdehesapli.com/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 100
+  },
+  {
+    "id": 9,
+    "name": "Webdenal Sitemap",
+    "category": "Bilgisayar",
+    "url": "https://www.webdenal.com/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 2
+  },
+  {
+    "id": 10,
+    "name": "Robotistan Sitemap",
+    "category": "Elektronik",
+    "url": "https://www.robotistan.com/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 13
+  },
+  {
+    "id": 11,
+    "name": "Robot Sepeti Sitemap",
+    "category": "Elektronik",
+    "url": "https://www.robotsepeti.com/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 6
+  },
+  {
+    "id": 12,
+    "name": "Direnç Net Sitemap",
+    "category": "Elektronik",
+    "url": "https://www.direnc.net/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 9
+  },
+  {
+    "id": 13,
+    "name": "Samm Market Sitemap",
+    "category": "Elektronik",
+    "url": "https://market.samm.com/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 4
+  },
+  {
+    "id": 14,
+    "name": "Merter Elektronik Sitemap",
+    "category": "Elektronik",
+    "url": "https://www.merterelektronik.com/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 108
+  },
+  {
+    "id": 15,
+    "name": "E-Hırdavat Sitemap",
+    "category": "Hırdavat",
+    "url": "https://www.e-hirdavat.com/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 58
+  },
+  {
+    "id": 16,
+    "name": "Hırdavat Fırsatı Sitemap",
+    "category": "Hırdavat",
+    "url": "https://www.hirdavatfirsati.com/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 7
+  },
+  {
+    "id": 17,
+    "name": "Nalburcuk Sitemap",
+    "category": "Hırdavat",
+    "url": "https://www.nalburcuk.com/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 172
+  },
+  {
+    "id": 18,
+    "name": "Mavi Kozmetik Sitemap",
+    "category": "Kozmetik",
+    "url": "https://www.mavikozmetik.com.tr/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 118
+  },
+  {
+    "id": 19,
+    "name": "Dermokozmetika Sitemap",
+    "category": "Kozmetik",
+    "url": "https://www.dermokozmetika.com.tr/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 9
+  },
+  {
+    "id": 20,
+    "name": "Narecza Sitemap",
+    "category": "Kozmetik",
+    "url": "https://www.narecza.com/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 10
+  },
+  {
+    "id": 21,
+    "name": "DermoEczanem Sitemap",
+    "category": "Kozmetik",
+    "url": "https://www.dermoeczanem.com/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 14
+  },
+  {
+    "id": 22,
+    "name": "Cosmetica Sitemap",
+    "category": "Kozmetik",
+    "url": "https://www.cosmetica.com.tr/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 4
+  },
+  {
+    "id": 23,
+    "name": "İlke Bebe Sitemap",
+    "category": "Anne & Bebek",
+    "url": "https://www.ilkebebe.com/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 22131
+  },
+  {
+    "id": 24,
+    "name": "Babymall Sitemap",
+    "category": "Anne & Bebek",
+    "url": "https://www.babymall.com.tr/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 14
+  },
+  {
+    "id": 25,
+    "name": "Civilim Sitemap",
+    "category": "Anne & Bebek",
+    "url": "https://www.civilim.com/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 83
+  },
+  {
+    "id": 26,
+    "name": "Enplus Sitemap",
+    "category": "Ev & Yaşam",
+    "url": "https://www.enplus.com.tr/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 14
+  },
+  {
+    "id": 27,
+    "name": "Evidea Sitemap",
+    "category": "Ev & Yaşam",
+    "url": "https://www.evidea.com/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 5
+  },
+  {
+    "id": 28,
+    "name": "Porland Sitemap",
+    "category": "Ev & Yaşam",
+    "url": "https://www.porland.com/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 5
+  },
+  {
+    "id": 29,
+    "name": "Biev Sitemap",
+    "category": "Ev & Yaşam",
+    "url": "https://www.biev.com.tr/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 1
+  },
+  {
+    "id": 30,
+    "name": "Petzzshop Sitemap",
+    "category": "Pet Shop",
+    "url": "https://www.petzzshop.com/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 3
+  },
+  {
+    "id": 31,
+    "name": "Markamama Sitemap",
+    "category": "Pet Shop",
+    "url": "https://www.markamama.com.tr/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 11
+  },
+  {
+    "id": 32,
+    "name": "Lastikcim Sitemap",
+    "category": "Oto Aksesuar",
+    "url": "https://www.lastikcim.com.tr/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 7
+  },
+  {
+    "id": 33,
+    "name": "KolayOto Sitemap",
+    "category": "Oto Aksesuar",
+    "url": "https://www.kolayoto.com/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 36
+  },
+  {
+    "id": 34,
+    "name": "Dagi Sitemap",
+    "category": "Giyim",
+    "url": "https://www.dagi.com.tr/sitemap.xml",
+    "format": "XML / Ürün Beslemesi",
+    "count": 15
+  },
+  {
+    "id": 35,
+    "name": "BKM Kitap",
+    "category": "Kitap & Kırtasiye",
+    "url": "https://www.bkmkitap.com/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 45
+  },
+  {
+    "id": 36,
+    "name": "Kidega",
+    "category": "Kitap & Hobi",
+    "url": "https://kidega.com/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 1
+  },
+  {
+    "id": 37,
+    "name": "Watsons Türkiye",
+    "category": "Kozmetik & Bakım",
+    "url": "https://www.watsons.com.tr/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 4
+  },
+  {
+    "id": 38,
+    "name": "Gratis",
+    "category": "Kozmetik & Bakım",
+    "url": "https://www.gratis.com/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 6
+  },
+  {
+    "id": 39,
+    "name": "Kozmela",
+    "category": "Kozmetik & Makyaj",
+    "url": "https://www.kozmela.com/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 10
+  },
+  {
+    "id": 40,
+    "name": "Recete",
+    "category": "Dermokozmetik & Eczane",
+    "url": "https://www.recete.com/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 9
+  },
+  {
+    "id": 41,
+    "name": "e-bebek",
+    "category": "Anne & Bebek",
+    "url": "https://www.e-bebek.com/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 8
+  },
+  {
+    "id": 42,
+    "name": "Joker",
+    "category": "Anne & Bebek",
+    "url": "https://www.joker.com.tr/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 16
+  },
+  {
+    "id": 43,
+    "name": "Toyzz Shop",
+    "category": "Oyuncak & Çocuk",
+    "url": "https://www.toyzzshop.com/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 6
+  },
+  {
+    "id": 44,
+    "name": "Karaca",
+    "category": "Mutfak & Züccaciye",
+    "url": "https://www.karaca.com/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 376
+  },
+  {
+    "id": 45,
+    "name": "Korkmaz Store",
+    "category": "Mutfak & Tencere",
+    "url": "https://www.korkmazstore.com.tr/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 11
+  },
+  {
+    "id": 46,
+    "name": "Schafer",
+    "category": "Mutfak & Sofra",
+    "url": "https://www.schafer.com.tr/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 8
+  },
+  {
+    "id": 47,
+    "name": "Madame Coco",
+    "category": "Ev Tekstili & Dekorasyon",
+    "url": "https://www.madamecoco.com/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 5
+  },
+  {
+    "id": 48,
+    "name": "English Home",
+    "category": "Ev Tekstili & Yaşam",
+    "url": "https://www.englishhome.com/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 10
+  },
+  {
+    "id": 49,
+    "name": "Linens",
+    "category": "Ev Tekstili & Perde",
+    "url": "https://www.linens.com.tr/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 1
+  },
+  {
+    "id": 50,
+    "name": "Yataş Bedding",
+    "category": "Yatak & Ev Tekstili",
+    "url": "https://www.yatasbedding.com.tr/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 4
+  },
+  {
+    "id": 51,
+    "name": "Bellona",
+    "category": "Mobilya & Dekorasyon",
+    "url": "https://www.bellona.com.tr/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 47
+  },
+  {
+    "id": 52,
+    "name": "İstikbal",
+    "category": "Mobilya & Ev Eşyaları",
+    "url": "https://www.istikbal.com.tr/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 47
+  },
+  {
+    "id": 53,
+    "name": "Kelebek Mobilya",
+    "category": "Mobilya & Tasarım",
+    "url": "https://www.kelebek.com/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 24
+  },
+  {
+    "id": 54,
+    "name": "Koçtaş",
+    "category": "Yapı Market & Ev",
+    "url": "https://www.koctas.com.tr/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 131
+  },
+  {
+    "id": 55,
+    "name": "Bauhaus Türkiye",
+    "category": "Yapı Market & Bahçe",
+    "url": "https://www.bauhaus.com.tr/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 2
+  },
+  {
+    "id": 56,
+    "name": "ToptanTR",
+    "category": "Toptan Hızlı Tüketim",
+    "url": "https://www.toptantr.com/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 2
+  },
+  {
+    "id": 57,
+    "name": "Bizim Toptan",
+    "category": "Toptan Market",
+    "url": "https://www.bizimtoptan.com.tr/sitemap.xml",
+    "format": "Açık Ürün Sitemap Index (Schema.org Uyumlu)",
+    "count": 5
+  },
+  {
+    "id": 58,
+    "name": "DeFacto",
+    "category": "Moda & Giyim",
+    "url": "https://www.defacto.com.tr/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 2
+  },
+  {
+    "id": 59,
+    "name": "Koton",
+    "category": "Moda & Giyim",
+    "url": "https://www.koton.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 7
+  },
+  {
+    "id": 60,
+    "name": "FLO",
+    "category": "Ayakkabı & Çanta",
+    "url": "https://www.flo.com.tr/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 11
+  },
+  {
+    "id": 61,
+    "name": "Boyner",
+    "category": "Çoklu Kategori & Giyim",
+    "url": "https://www.boyner.com.tr/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 12
+  },
+  {
+    "id": 62,
+    "name": "InStreet",
+    "category": "Ayakkabı & Spor",
+    "url": "https://www.instreet.com.tr/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 8
+  },
+  {
+    "id": 63,
+    "name": "SuperStep",
+    "category": "Spor & Sneaker",
+    "url": "https://www.superstep.com.tr/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 3
+  },
+  {
+    "id": 64,
+    "name": "Sneaks Up",
+    "category": "Spor Giyim & Sneaker",
+    "url": "https://www.sneaksup.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 5
+  },
+  {
+    "id": 65,
+    "name": "Korayspor",
+    "category": "Spor & Ekipman",
+    "url": "https://www.korayspor.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 4
+  },
+  {
+    "id": 66,
+    "name": "Barçın Spor",
+    "category": "Spor & Outdoor",
+    "url": "https://www.barcin.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 4
+  },
+  {
+    "id": 67,
+    "name": "Lescon",
+    "category": "Spor & Eşofman",
+    "url": "https://www.lescon.com.tr/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 4
+  },
+  {
+    "id": 68,
+    "name": "EasyCep",
+    "category": "Yenilenmiş Telefon & Elektronik",
+    "url": "https://easycep.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 5
+  },
+  {
+    "id": 69,
+    "name": "Getmobil",
+    "category": "Yenilenmiş Telefon & Tablet",
+    "url": "https://getmobil.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 5
+  },
+  {
+    "id": 70,
+    "name": "MobilCadde",
+    "category": "Telefon Aksesuarları & Kılıf",
+    "url": "https://www.mobilcadde.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 11
+  },
+  {
+    "id": 71,
+    "name": "Spigen Türkiye",
+    "category": "Telefon Kılıfı & Ekran Koruyucu",
+    "url": "https://www.spigen.com.tr/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 28
+  },
+  {
+    "id": 72,
+    "name": "Robolink Market",
+    "category": "Robotik & 3D Yazıcı",
+    "url": "https://www.robolinkmarket.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 11
+  },
+  {
+    "id": 73,
+    "name": "F1 Depo",
+    "category": "Elektronik & Arduino",
+    "url": "https://f1depo.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 62
+  },
+  {
+    "id": 74,
+    "name": "Petlebi",
+    "category": "Pet Shop & Evcil Hayvan",
+    "url": "https://www.petlebi.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 4
+  },
+  {
+    "id": 75,
+    "name": "KolayMama",
+    "category": "Kedi/Köpek Maması & Aksesuar",
+    "url": "https://www.kolaymama.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 8
+  },
+  {
+    "id": 76,
+    "name": "Atakan Petshop",
+    "category": "Akvaryum & Pet Malzemeleri",
+    "url": "https://www.atakanpetshop.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 4
+  },
+  {
+    "id": 77,
+    "name": "Evcilal",
+    "category": "Kuş, Kemirgen & Köpek Ürünleri",
+    "url": "https://www.evcilal.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 52
+  },
+  {
+    "id": 78,
+    "name": "Taç Ev Tekstili",
+    "category": "Ev Tekstili & Perde",
+    "url": "https://www.tac.com.tr/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 1
+  },
+  {
+    "id": 79,
+    "name": "Jumbo",
+    "category": "Lüks Sofra & Çatal-Kaşık",
+    "url": "https://www.jumbo.com.tr/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 9
+  },
+  {
+    "id": 80,
+    "name": "Emsan",
+    "category": "Mutfak & Tencere Setleri",
+    "url": "https://www.emsan.com.tr/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 17
+  },
+  {
+    "id": 81,
+    "name": "Nehir Mutfak",
+    "category": "Çatal-Kaşık & Çelik Mutfak",
+    "url": "https://www.nehir.com.tr/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 7
+  },
+  {
+    "id": 82,
+    "name": "Bernardo",
+    "category": "Porselen & Sofra Tasarımı",
+    "url": "https://www.bernardo.com.tr/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 11
+  },
+  {
+    "id": 83,
+    "name": "Hisar",
+    "category": "Sofra Sanatı & Tencere",
+    "url": "https://www.hisar.com.tr/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 8
+  },
+  {
+    "id": 84,
+    "name": "OtoSuperMarket",
+    "category": "Oto Bakım & Aksesuar",
+    "url": "https://www.otosupermarket.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 599
+  },
+  {
+    "id": 85,
+    "name": "Parça Ofisi",
+    "category": "Oto Yedek Parça B2B",
+    "url": "https://www.parcaofisi.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 11
+  },
+  {
+    "id": 86,
+    "name": "Kırmızı Kedi",
+    "category": "Kitap & Edebiyat",
+    "url": "https://www.kirmizikedi.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 3076
+  },
+  {
+    "id": 87,
+    "name": "Nezih",
+    "category": "Kitap, Kırtasiye & Oyuncak",
+    "url": "https://www.nezih.com.tr/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 12
+  },
+  {
+    "id": 88,
+    "name": "Güven Sanat",
+    "category": "Sanatsal Malzeme & Boya",
+    "url": "https://www.guvensanat.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 16
+  },
+  {
+    "id": 89,
+    "name": "Karin Sanat",
+    "category": "Hobi & Tuval & Fırça",
+    "url": "https://www.karinsanat.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 55
+  },
+  {
+    "id": 90,
+    "name": "Hırdavat Dünyası",
+    "category": "El Aletleri & Hırdavat",
+    "url": "https://www.hirdavatdunyasi.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 1
+  },
+  {
+    "id": 91,
+    "name": "Doğtaş Mobilya",
+    "category": "Mobilya & Koltuk",
+    "url": "https://www.dogtas.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 24
+  },
+  {
+    "id": 92,
+    "name": "Enza Home",
+    "category": "Mobilya & Yatak",
+    "url": "https://www.enzahome.com.tr/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 4
+  },
+  {
+    "id": 93,
+    "name": "Lova Yatak",
+    "category": "Yatak & Baza",
+    "url": "https://www.lovayatak.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 22
+  },
+  {
+    "id": 94,
+    "name": "Kiğılı",
+    "category": "Erkek Giyim & Takım Elbise",
+    "url": "https://www.kigili.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 51
+  },
+  {
+    "id": 95,
+    "name": "Damat Tween",
+    "category": "Erkek Giyim & Aksesuar",
+    "url": "https://www.damattween.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 5
+  },
+  {
+    "id": 96,
+    "name": "Ramsey",
+    "category": "Erkek Giyim & Palto",
+    "url": "https://www.ramsey.com.tr/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 10
+  },
+  {
+    "id": 97,
+    "name": "Derimod",
+    "category": "Deri Ceket & Ayakkabı",
+    "url": "https://derimod.com.tr/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 105
+  },
+  {
+    "id": 98,
+    "name": "Greyder",
+    "category": "Outdoor Ayakkabı & Bot",
+    "url": "https://www.greyder.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 13
+  },
+  {
+    "id": 99,
+    "name": "Penti",
+    "category": "İç Giyim, Çorap & Mayo",
+    "url": "https://www.penti.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 10
+  },
+  {
+    "id": 100,
+    "name": "Suwen",
+    "category": "İç Giyim & Ev Giyimi",
+    "url": "https://www.suwen.com.tr/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 5
+  },
+  {
+    "id": 101,
+    "name": "Modanisa",
+    "category": "Kadın Moda & Tesettür",
+    "url": "https://www.modanisa.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 85
+  },
+  {
+    "id": 102,
+    "name": "Sefamerve",
+    "category": "Giyim & Şal & Eşarp",
+    "url": "https://www.sefamerve.com/sitemap.xml",
+    "format": "Sitemap XML",
+    "count": 43
+  }
+]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Akakçe Standart Ürün Besleme XML Formatı (Official Merchant Specification) -->
+<!-- Mağaza: PetGross | Altyapı: IdeaSoft / Ticimax / T-Soft Export Engine -->
+<urunler>
+  <urun>
+    <kod>PET-PROPLAN-SOMON-10</kod>
+    <barkod>7613035123985</barkod>
+    <ad><![CDATA[Pro Plan Somonlu Kısırlaştırılmış Yetişkin Kedi Maması 10 kg]]></ad>
+    <fiyat>1999.00</fiyat>
+    <kargo_ucreti>0</kargo_ucreti>
+    <stok>300</stok>
+    <marka><![CDATA[Pro Plan]]></marka>
+    <kategori><![CDATA[Evcil Hayvan > Kedi Maması]]></kategori>
+    <magaza><![CDATA[PetGross]]></magaza>
+    <url>https://www.petgross.com/pro-plan-somonlu-kisirlastirilmis-kedi-mamasi-10kg</url>
+    <resim><![CDATA[https://images.unsplash.com/photo-1589924691995-400dc9ecc119?auto=format&fit=crop&w=800&q=80]]></resim>
+    <aciklama><![CDATA[En taze son kullanma tarihi (SKT: 2027) garantisi.]]></aciklama>
+  </urun>
+  <urun>
+    <kod>PET-RC-MAXI-15</kod>
+    <barkod>3182550707015</barkod>
+    <ad><![CDATA[Royal Canin Maxi Adult Büyük Irk Yetişkin Köpek Maması 15 kg]]></ad>
+    <fiyat>3099.00</fiyat>
+    <kargo_ucreti>0</kargo_ucreti>
+    <stok>180</stok>
+    <marka><![CDATA[Royal Canin]]></marka>
+    <kategori><![CDATA[Evcil Hayvan > Köpek Maması]]></kategori>
+    <magaza><![CDATA[PetGross]]></magaza>
+    <url>https://www.petgross.com/royal-canin-maxi-adult-15kg</url>
+    <resim><![CDATA[https://images.unsplash.com/photo-1568640347023-a616a30bc3bd?auto=format&fit=crop&w=800&q=80]]></resim>
+    <aciklama><![CDATA[Orijinal ambalajında ve barkod onaylı sevk edilir.]]></aciklama>
+  </urun>
+</urunler>

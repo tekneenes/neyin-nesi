@@ -1,0 +1,6 @@
+{
+  "name": "Neyin Nesi? — Ürün Karşılaştırma ve Keşif Platformu",
+  "description": "İnsanların satın almadan önce ürünleri anlamasına, karşılaştırmasına ve doğrulanmış kaynaklarla doğru karar vermesine yardımcı olan ürün keşif platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

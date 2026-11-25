@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+dist-worker/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+backups/
+*.dump
+*.sql.gz

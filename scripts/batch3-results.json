@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Mavi Jeans",
+    "category": "Moda & Giyim",
+    "sitemap": "https://www.mavi.com/sitemap.xml",
+    "status": "ERROR",
+    "code": 403
+  },
+  {
+    "name": "LC Waikiki",
+    "category": "Moda & Giyim",
+    "sitemap": "https://www.lcwaikiki.com/sitemap.xml",
+    "status": "ERROR",
+    "code": 404
+  },
+  {
+    "name": "DeFacto",
+    "category": "Moda & Giyim",
+    "sitemap": "https://www.defacto.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "count": 2
+  },
+  {
+    "name": "Koton",
+    "category": "Moda & Giyim",
+    "sitemap": "https://www.koton.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 7
+  },
+  {
+    "name": "FLO",
+    "category": "Ayakkabı & Çanta",
+    "sitemap": "https://www.flo.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "count": 11
+  },
+  {
+    "name": "Boyner",
+    "category": "Çoklu Kategori & Giyim",
+    "sitemap": "https://www.boyner.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "count": 12
+  },
+  {
+    "name": "InStreet",
+    "category": "Ayakkabı & Spor",
+    "sitemap": "https://www.instreet.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "count": 8
+  },
+  {
+    "name": "SuperStep",
+    "category": "Spor & Sneaker",
+    "sitemap": "https://www.superstep.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "count": 3
+  },
+  {
+    "name": "Sneaks Up",
+    "category": "Spor Giyim & Sneaker",
+    "sitemap": "https://www.sneaksup.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 5
+  },
+  {
+    "name": "Korayspor",
+    "category": "Spor & Ekipman",
+    "sitemap": "https://www.korayspor.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 4
+  },
+  {
+    "name": "Barçın Spor",
+    "category": "Spor & Outdoor",
+    "sitemap": "https://www.barcin.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 4
+  },
+  {
+    "name": "Yalı Spor",
+    "category": "Spor & Ayakkabı",
+    "sitemap": "https://www.yalispor.com.tr/sitemap.xml",
+    "status": "ERROR",
+    "code": 403
+  },
+  {
+    "name": "Lescon",
+    "category": "Spor & Eşofman",
+    "sitemap": "https://www.lescon.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "count": 4
+  },
+  {
+    "name": "EasyCep",
+    "category": "Yenilenmiş Telefon & Elektronik",
+    "sitemap": "https://easycep.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 5
+  },
+  {
+    "name": "Getmobil",
+    "category": "Yenilenmiş Telefon & Tablet",
+    "sitemap": "https://getmobil.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 5
+  },
+  {
+    "name": "MobilCadde",
+    "category": "Telefon Aksesuarları & Kılıf",
+    "sitemap": "https://www.mobilcadde.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 11
+  },
+  {
+    "name": "Spigen Türkiye",
+    "category": "Telefon Kılıfı & Ekran Koruyucu",
+    "sitemap": "https://www.spigen.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "count": 28
+  },
+  {
+    "name": "Anker Türkiye",
+    "category": "Kulaklık, Şarj & Projeksiyon",
+    "sitemap": "https://www.anker-tr.com/sitemap.xml",
+    "status": "ERROR",
+    "error": "fetch failed"
+  },
+  {
+    "name": "Robolink Market",
+    "category": "Robotik & 3D Yazıcı",
+    "sitemap": "https://www.robolinkmarket.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 11
+  },
+  {
+    "name": "F1 Depo",
+    "category": "Elektronik & Arduino",
+    "sitemap": "https://f1depo.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 62
+  },
+  {
+    "name": "Petlebi",
+    "category": "Pet Shop & Evcil Hayvan",
+    "sitemap": "https://www.petlebi.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 4
+  },
+  {
+    "name": "MamaTR",
+    "category": "Kedi & Köpek Maması",
+    "sitemap": "https://www.mamatr.com/sitemap.xml",
+    "status": "ERROR",
+    "error": "fetch failed"
+  },
+  {
+    "name": "KolayMama",
+    "category": "Kedi/Köpek Maması & Aksesuar",
+    "sitemap": "https://www.kolaymama.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 8
+  },
+  {
+    "name": "Atakan Petshop",
+    "category": "Akvaryum & Pet Malzemeleri",
+    "sitemap": "https://www.atakanpetshop.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 4
+  },
+  {
+    "name": "Evcilal",
+    "category": "Kuş, Kemirgen & Köpek Ürünleri",
+    "sitemap": "https://www.evcilal.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 52
+  },
+  {
+    "name": "Taç Ev Tekstili",
+    "category": "Ev Tekstili & Perde",
+    "sitemap": "https://www.tac.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "count": 1
+  },
+  {
+    "name": "Özdilek Ev Tekstili",
+    "category": "Havlu, Bornoz & Nevresim",
+    "sitemap": "https://www.ozdilekteyim.com/sitemap.xml",
+    "status": "NOT_XML",
+    "code": 200
+  },
+  {
+    "name": "Jumbo",
+    "category": "Lüks Sofra & Çatal-Kaşık",
+    "sitemap": "https://www.jumbo.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "count": 9
+  },
+  {
+    "name": "Emsan",
+    "category": "Mutfak & Tencere Setleri",
+    "sitemap": "https://www.emsan.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "count": 17
+  },
+  {
+    "name": "Nehir Mutfak",
+    "category": "Çatal-Kaşık & Çelik Mutfak",
+    "sitemap": "https://www.nehir.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "count": 7
+  },
+  {
+    "name": "Bernardo",
+    "category": "Porselen & Sofra Tasarımı",
+    "sitemap": "https://www.bernardo.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "count": 11
+  },
+  {
+    "name": "Hisar",
+    "category": "Sofra Sanatı & Tencere",
+    "sitemap": "https://www.hisar.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "count": 8
+  },
+  {
+    "name": "Aloparca",
+    "category": "Oto Yedek Parça & Filtre",
+    "sitemap": "https://www.aloparca.com/sitemap.xml",
+    "status": "NOT_XML",
+    "code": 200
+  },
+  {
+    "name": "OtoSuperMarket",
+    "category": "Oto Bakım & Aksesuar",
+    "sitemap": "https://www.otosupermarket.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 599
+  },
+  {
+    "name": "Parça Ofisi",
+    "category": "Oto Yedek Parça B2B",
+    "sitemap": "https://www.parcaofisi.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 11
+  },
+  {
+    "name": "Kırmızı Kedi",
+    "category": "Kitap & Edebiyat",
+    "sitemap": "https://www.kirmizikedi.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 3076
+  },
+  {
+    "name": "Alfa Kitap",
+    "category": "Yayınevi & Kitap",
+    "sitemap": "https://www.alfakitap.com/sitemap.xml",
+    "status": "ERROR",
+    "code": 404
+  },
+  {
+    "name": "Remzi Kitabevi",
+    "category": "Kitap & Sanat",
+    "sitemap": "https://www.remzi.com.tr/sitemap.xml",
+    "status": "ERROR",
+    "code": 404
+  },
+  {
+    "name": "Nezih",
+    "category": "Kitap, Kırtasiye & Oyuncak",
+    "sitemap": "https://www.nezih.com.tr/sitemap.xml",
+    "status": "WORKING",
+    "count": 12
+  },
+  {
+    "name": "Panel Kırtasiye",
+    "category": "Okul & Ofis Kırtasiyesi",
+    "sitemap": "https://www.panelkirtasiye.com/sitemap.xml",
+    "status": "ERROR",
+    "code": 403
+  },
+  {
+    "name": "Güven Sanat",
+    "category": "Sanatsal Malzeme & Boya",
+    "sitemap": "https://www.guvensanat.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 16
+  },
+  {
+    "name": "Karin Sanat",
+    "category": "Hobi & Tuval & Fırça",
+    "sitemap": "https://www.karinsanat.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 55
+  },
+  {
+    "name": "Hırdavat Dünyası",
+    "category": "El Aletleri & Hırdavat",
+    "sitemap": "https://www.hirdavatdunyasi.com/sitemap.xml",
+    "status": "WORKING",
+    "count": 1
+  },
+  {
+    "name": "Akın Hırdavat",
+    "category": "Civata & Yapı Malzemeleri",
+    "sitemap": "https://www.akinhirdavat.com.tr/sitemap.xml",
+    "status": "ERROR",
+    "error": "fetch failed"
+  },
+  {
+    "name": "En Nalbur",
+    "category": "Nalbur & Boya Malzemeleri",
+    "sitemap": "https://www.ennalbur.com/sitemap.xml",
+    "status": "ERROR",
+    "error": "fetch failed"
+  }
+]
